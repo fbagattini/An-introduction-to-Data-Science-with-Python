@@ -5,6 +5,5 @@ Corso introduttivo a Python e al suo ecosistema di strumenti per la Data Science
 - scipy
 - matplotlib
 - seaborn
-- pandas
 - sklearn
-- keras
+- pandas
